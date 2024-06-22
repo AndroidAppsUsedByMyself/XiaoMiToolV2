@@ -70,5 +70,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClassName = "com.xiaomitool.v2.gui.MainWindow"
+    mainClass.set("com.xiaomitool.v2.gui.MainWindow")
 }
